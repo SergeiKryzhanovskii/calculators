@@ -1,2 +1,1 @@
-# Murchaloland
-# General repositori
+# Простой калькулятор
